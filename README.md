@@ -1,6 +1,6 @@
-- Hey, I’m @Vishnulur
+- Hey, I’m Vishnu Kalluri
 - I’m interested in physics
-- Reach me on instagram @vishnulur or through my email vishnulur@gmail.com
+- Reach me through my email vishnulur@gmail.com or on instagram @vishnuluri
 
 <!---
 Vishnulur/Vishnulur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
