@@ -1,5 +1,4 @@
 - Hey, I’m Vishnu Kalluri
-- I’m interested in physics, math, and CS
 - Reach me through my email vishnulur@gmail.com
 
 <!---
